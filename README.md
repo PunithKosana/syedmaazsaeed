@@ -7,7 +7,7 @@
 
 <h3 align="center">
   <samp>&gt; Hi There!, I am
-    <b><a target="_blank" href="https://syedmaazsaeed-techfolio.vercel.app/">Syed Maaz Saeed</a></b>
+    <b><a target="_blank" href="https://syedmaazsaeed-techfolio.vercel.app/">Punith Kosana</a></b>
   </samp>
 </h3>
 
